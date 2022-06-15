@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@500;700&display=swap');
+
+th {
+    height: 70px;
+    color: black;
+    text-align: left;
+    padding: 20px;
+    height: auto;
+    font-size: 170%;        
+}
+
+td {
+    padding: 10px;
+    font-size: larger;   
+}
+
+.orange {
+    background: orange;
+    color: white;
+}
+
+.blue {
+    background: blue;
+    color: white;
+}
+
+.green {
+    background: green;
+    color: white;
+
+}
+table {
+    border-collapse: collapse;
+    margin: 30px auto;
+    width: 100%;
+    color: black;
+         
+}
+
+th, td, tr {
+    border: 2px solid black;
+    margin: 30px; 
+    font-family:Hind Madurai; 
+}
+
+
